@@ -1,4 +1,5 @@
-# Portfolio
+# Resume & Portfolio
+Resume is in the file list above
 
 Portfolio Links:
 
